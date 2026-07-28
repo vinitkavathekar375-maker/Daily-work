@@ -1,0 +1,4 @@
+# cook your dish here
+N=int(input())
+Rest_day=N*3
+print(Rest_day)
