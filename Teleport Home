@@ -1,0 +1,6 @@
+# cook your dish here
+D,T=map(int, input().split())
+if D>T:
+    print(D-T)
+else:
+    print(0)
