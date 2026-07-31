@@ -1,0 +1,7 @@
+# cook your dish here
+N,B=map(int, input().split())
+A=B*10
+if N>=A:
+    print("YES")
+else:
+    print("NO")
