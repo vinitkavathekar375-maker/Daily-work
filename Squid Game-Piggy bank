@@ -1,0 +1,4 @@
+# cook your dish here
+N, K=map(int, input().split())
+P=N-K
+print(P*10000)
