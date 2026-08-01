@@ -1,0 +1,7 @@
+# cook your dish here
+X,Y=map(int, input().split())
+A=X*100
+C=Y-X
+D=C*150
+Z=A+D
+print(Z)
