@@ -1,0 +1,6 @@
+# cook your dish here
+X,Y,Z=map(int, input().split())
+if Z<=50:
+    print(X)
+else:
+    print((Z-50)*Y+X)
