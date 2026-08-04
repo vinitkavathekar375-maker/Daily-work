@@ -1,0 +1,5 @@
+# cook your dish here
+N,M=map(int, input().split())
+B=N*30
+S=M*50
+print(S-B)
