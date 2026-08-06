@@ -1,0 +1,4 @@
+# cook your dish here
+N=int(input())
+T=20-N
+print(T)
