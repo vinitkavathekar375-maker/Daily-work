@@ -1,0 +1,6 @@
+# cook your dish here
+a,b,p,q=map(int, input().split())
+if (a*p>b*q):
+    print(a*p)
+else:
+    print(b*q)
