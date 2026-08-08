@@ -1,0 +1,6 @@
+# cook your dish here
+x,y=map(int, input().split())
+if x+(10*y)<100:
+    print("no")
+else:
+    print("yes")
