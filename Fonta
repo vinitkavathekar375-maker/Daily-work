@@ -1,0 +1,7 @@
+# cook your dish here
+str=input().strip()
+
+if str[4]=="a" and str[3]=="t" and str[2]=="n":
+        print("yes")
+else:
+        print("no")
