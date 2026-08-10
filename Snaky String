@@ -1,0 +1,6 @@
+# cook your dish here
+a=input()
+if a[0]=='s' or a[3]=='s':
+    print("yes")
+else:
+    print("no")
